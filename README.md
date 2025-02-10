@@ -2,7 +2,7 @@
 
 第二代 在线奖励插件
 
-# Building
+# Buildingass
 
 * [Gradle](https://gradle.org/) - Dependency Management
 
